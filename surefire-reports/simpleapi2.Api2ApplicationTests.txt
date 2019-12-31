@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: simpleapi2.Api2ApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.091 s - in simpleapi2.Api2ApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.8 s - in simpleapi2.Api2ApplicationTests
